@@ -9,8 +9,8 @@
 
 ---
 
-**Tech I work with:**
-`Python` `YOLOv8` `FastAPI` `LangChain` `LangGraph` `FAISS` `ChromaDB` `Gemini` `HuggingFace` `React` `Docker` `Streamlit`
+**Tech I work\am learning with:**
+`Python` `YOLOv8` `FastAPI` `LangChain` `FAISS`  `Gemini` `HuggingFace` `React` `Docker` `Streamlit`
 
 ---
 
