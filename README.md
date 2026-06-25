@@ -1,7 +1,7 @@
 # Hi there, I'm Ahamed H 👋
 
 🎓 CS Graduate (2026) | BSA Crescent Institute, Chennai  
-🤖 Aspiring AI/ML Engineer | Building production-ready AI systems  
+🤖 Aspiring AI/ML Engineer | trying to build production-ready AI systems  
 📍 Chennai, India | Open to Chennai & Bengaluru opportunities
 
 ---
