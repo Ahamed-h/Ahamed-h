@@ -1,4 +1,4 @@
-> 🚀 Want to know what I'm currently building?
+
 > I'm a 2026 CS graduate actively shipping production-grade AI/ML systems — targeting **AI Engineer / ML Engineer** roles in Chennai & Bengaluru.
 >
 > - [x] [`SafeGuard`](https://github.com/Ahamed-h/SafeGuard_Industrial-PPE-Detection-Using-YOLOv8) — Real-time PPE detection for construction sites · YOLOv8 · FastAPI · OpenCV · violation logging
